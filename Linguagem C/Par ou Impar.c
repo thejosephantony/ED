@@ -2,7 +2,7 @@
 #include <math.h>
 #include <stdlib.h>
 
-//Escrever um programa em C para ler um numero inteiro qualquer e classificá-lo como par ou ímpar.
+//Escrever um programa em C para ler um numero inteiro qualquer e classificá-lo como para o ímpar.
 
 int main(){
     int num;

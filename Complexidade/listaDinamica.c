@@ -1,3 +1,15 @@
+/*Qual a ordem de complexidade de tempo
+
+de algoritmo que insere um novo elemento
+
+numa lista dinâmica de inteiros mantida
+
+por um ponteiro apontando para o 1o
+
+elemento e outro para o último elemento.*/
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 

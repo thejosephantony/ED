@@ -1,3 +1,11 @@
+/*
+Qual a ordem de
+complexidade de
+tempo do algoritmo
+dado ao lado em
+pseudocódigo?
+*/
+
 algoritmo Atividade;
 constante
   Max = 50;

@@ -1,3 +1,8 @@
+/*Qual a ordem de complexidade de tempo do
+algoritmo dado abaixo?
+*/
+
+
 SOMA DE MATRIZES
 
  para i:=1,…,n faça       // n

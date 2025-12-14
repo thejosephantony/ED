@@ -1,3 +1,7 @@
+/*Qual a ordem de complexidade de tempo do
+algoritmo dado abaixo?*/
+
+
 int soma_elementos(int array[], int n) {
     int soma = 0;                      // 1
     for (int i = 0; i < n; i++) {      // (1, (n+1), n)
